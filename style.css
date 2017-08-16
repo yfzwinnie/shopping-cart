@@ -19,3 +19,14 @@
   font-size: 1.2em;
   font-weight: bold;
 }
+
+.shopping-cart{
+    width: 25%;
+    float:right;
+    margin: 20px;
+    margin-top: 5%;;
+    float:right;
+    position: fixed;
+    top: 0;
+    right: 0;
+}

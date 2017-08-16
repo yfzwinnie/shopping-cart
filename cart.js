@@ -1,3 +1,9 @@
+$(window).on("scroll", function() {
+         if($(window).scrollTop() > 50) {
+             $(".shopping-cart").css("top","right",$(window).scrollTop());
+         }
+     });
+
 const products = $(".col-md-6");
 products.each(function(i, product) {
   $(product).append('<input type="button" value="Add to Cart" class="btn-success">');
