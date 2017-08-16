@@ -5,3 +5,17 @@
 .total-due {
   margin-top: 200px;
 }
+
+.error {
+  color: red;
+}
+
+#buy-now {
+  visibility: hidden;
+  margin-left: 75px;
+}
+
+.total-due {
+  font-size: 1.2em;
+  font-weight: bold;
+}
