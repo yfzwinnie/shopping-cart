@@ -1,5 +1,10 @@
-# shopping-cart
+# Shopping Cart
 
+Shopping cart was a Launch Code assignment to help students practice using JavaScript. See my version of shopping cart below.
+
+[Live demo of app](http://philatist-prison-72812.bitballoon.com/)
+____
+# Assignment Instructions
 A simple shopping cart frontend written. In this exercise, you will be implementing a Shopping Cart Page. Provided for you is a simple HTML page with Bootstrap that shows items and a section for the shopping cart your task is to implement the following features:
 
 * An Add to Cart Button for each item
